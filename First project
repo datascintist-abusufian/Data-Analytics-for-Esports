@@ -1,0 +1,7 @@
+# Data-analytics-for-Esports
+With the help of data-driven technology like Python, this project has evaluated the E-Gaming dataset from the previous few years in order to derive insights and create predictive models.
+With the help of data-driven technology like Python, this project will evaluate the E-Gaming dataset from the previous few years in order to derive insights and create predictive models. 
+The dataset includes a variety of E-Gaming-related features, such as game names, teams, participants, prize money, and tournament locations. 
+Different visualisations are used in the project to better understand the patterns in the data and statistical tests are used to establish the correlation between these features. 
+In order to predict the future based on the data, the project also contains a regression model. Various accuracy metrics are applied to the findings to validate the model's accuracy.
+This project gives insightful knowledge into the world of electronic gaming and is a helpful tool for identifying potential future trends.
